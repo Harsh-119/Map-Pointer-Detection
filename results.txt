@@ -1,0 +1,24 @@
+The filename to work on is develop-001.jpg.
+POSITION 0.442 0.598
+BEARING 262.9
+The filename to work on is develop-002.jpg.
+POSITION 0.438 0.594
+BEARING 262.6
+The filename to work on is develop-003.jpg.
+POSITION 0.443 0.588
+BEARING 262.4
+The filename to work on is develop-004.jpg.
+POSITION 0.445 0.592
+BEARING 263.0
+The filename to work on is develop-005.jpg.
+POSITION 0.639 0.580
+BEARING 359.8
+The filename to work on is develop-006.jpg.
+POSITION 0.649 0.577
+BEARING 88.7
+The filename to work on is develop-007.jpg.
+POSITION 0.644 0.572
+BEARING 180.4
+The filename to work on is develop-008.jpg.
+POSITION 0.639 0.577
+BEARING 270.2
